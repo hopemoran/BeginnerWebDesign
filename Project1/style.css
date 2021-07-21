@@ -1,11 +1,33 @@
-h1 {
-    color: brown;
+body {
+    background-color: #2f3035;
 }
 
-h2 {
-    color: blue;
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1074px;
 }
 
-h3 {
-    color: aqua;
+header {
+    background-color: blue;
+    height: 110px;
+    width: 1024px;
+}
+
+nav {
+    background-color: red;
+    height: 40px;
+    width: 1024px;
+}
+
+main {
+    background-color: orange;
+    height: 400px;
+    width: 1024px;
+}
+
+footer {
+    background-color: green;
+    height: 100px;
+    width: 1024px;
 }
