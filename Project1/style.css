@@ -9,7 +9,6 @@ body {
 }
 
 header {
-    background-color: blue;
     height: 110px;
     width: 1024px;
     text-align: center;
@@ -22,14 +21,15 @@ nav {
 }
 
 main {
-    background-color: orange;
     height: 400px;
-    width: 1024px;
     text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
 }
 
 footer {
-    background-color: green;
+    background-color: greenyellow;
     height: 100px;
     width: 1024px;
 }
